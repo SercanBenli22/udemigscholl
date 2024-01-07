@@ -17,7 +17,7 @@ Campus information highlighting locations across different cities.
 Testimonials section featuring feedback from notable personalities.
 Quick access section for easy communication and engagement.
 Installation
-Clone the repository: git clone https://github.com/your-username/udemig-school-website.git
+Clone the repository: git clone https://github.com/SercanBenli22/deneme
 Navigate to the project directory.
 Open the index.html file in your preferred web browser.
 Usage
