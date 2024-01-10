@@ -17,7 +17,7 @@ Campus information highlighting locations across different cities.
 Testimonials section featuring feedback from notable personalities.
 Quick access section for easy communication and engagement.
 Installation
-Clone the repository: git clone https://github.com/SercanBenli22/deneme
+Clone the repository: git clone https://github.com/SercanBenli22/udemigscholl
 Navigate to the project directory.
 Open the index.html file in your preferred web browser.
 Usage
